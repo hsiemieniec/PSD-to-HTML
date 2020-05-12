@@ -1,1 +1,5 @@
 .idea
+public/css
+public/scripts
+node_modules
+package-lock.json

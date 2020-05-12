@@ -1,3 +1,4 @@
 # PSD-to-HTML
-# To compile scss file to css
-# sass scss/index.scss style.css --watch
+# npm install (yarn install) - to initialize 
+# npm run dev : "webpack --mode development --watch",
+# npm run build : "webpack --mode production --watch"
